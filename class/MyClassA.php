@@ -1,5 +1,7 @@
 <?php
 
+namespace My\Demo;
+
 class MyClassA
 {
     public function getTest()

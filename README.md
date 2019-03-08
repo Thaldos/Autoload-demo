@@ -1,3 +1,3 @@
 # Autoload-demo
 
-Type : `php test.php`.
+Type : `php main.php`.
